@@ -29,7 +29,6 @@ These implementations are great for learning how to apply DSA concepts like **st
 
 ---
 
-## 📊 Sample Output
 Day | Price | Span | 3-Day Moving Avg
 ----------------------------------------
   1 |   100 |    1 |            100.0
@@ -39,8 +38,4 @@ Day | Price | Span | 3-Day Moving Avg
   5 |    60 |    1 |             63.3
   6 |    75 |    4 |             68.3
   7 |    85 |    6 |             73.3
-├── stock_tracker.py       # Main script with logic
-├── README.md              # Project description
-
-
 
